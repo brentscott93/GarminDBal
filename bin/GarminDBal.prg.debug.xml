@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/brent/monkeyc/GarminDBal/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="1" lineNum="9" parent="globals/GarminDBalView" pc="268435456" symbol="initialize"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="1" lineNum="10" parent="globals/GarminDBalView" pc="268435460" symbol="initialize"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="1" lineNum="11" parent="globals/GarminDBalView" pc="268435478" symbol="initialize"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="2" lineNum="18" parent="globals/GarminDBalView" pc="268435492" symbol="compute"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="2" lineNum="20" parent="globals/GarminDBalView" pc="268435496" symbol="compute"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="3" lineNum="6" parent="globals/GarminDBalView" pc="268435657" symbol="&lt;init&gt;"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalView.mc" id="3" lineNum="6" parent="globals/GarminDBalView" pc="268435657" symbol="&lt;init&gt;"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="5" lineNum="7" parent="globals/GarminDBalApp" pc="268435503" symbol="initialize"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="5" lineNum="8" parent="globals/GarminDBalApp" pc="268435507" symbol="initialize"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="6" lineNum="12" parent="globals/GarminDBalApp" pc="268435526" symbol="onStart"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="7" lineNum="16" parent="globals/GarminDBalApp" pc="268435531" symbol="onStop"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="8" lineNum="20" parent="globals/GarminDBalApp" pc="268435536" symbol="getInitialView"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="8" lineNum="21" parent="globals/GarminDBalApp" pc="268435540" symbol="getInitialView"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="9" lineNum="5" parent="globals/GarminDBalApp" pc="268435638" symbol="&lt;init&gt;"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="9" lineNum="5" parent="globals/GarminDBalApp" pc="268435638" symbol="&lt;init&gt;"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="10" lineNum="26" parent="globals" pc="268435578" symbol="getApp"/>
+        <entry filename="/home/brent/monkeyc/GarminDBal/source/GarminDBalApp.mc" id="10" lineNum="27" parent="globals" pc="268435590" symbol="getApp"/>
+        <entry filename="Rez" id="12" lineNum="2" parent="globals/Rez/Drawables" pc="268435632" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="13" lineNum="6" parent="globals/Rez/Fonts" pc="268435634" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="14" lineNum="8" parent="globals/Rez/JsonData" pc="268435636" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="15" lineNum="10" parent="globals/Rez/Layouts" pc="268435635" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="16" lineNum="12" parent="globals/Rez/Menus" pc="268435633" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="17" lineNum="14" parent="globals/Rez/Strings" pc="268435637" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="18" lineNum="1" parent="globals/Rez" pc="268435608" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="18" lineNum="1" parent="globals/Rez" pc="268435608" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="14" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="9" object="true" symbol="GarminDBalView"/>
+        <entry id="10" object="true" symbol="GarminDBalApp"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435502" name="info" stackId="1" startPc="268435492"/>
+        <entry arg="true" endPc="268435530" name="state" stackId="1" startPc="268435526"/>
+        <entry arg="true" endPc="268435535" name="state" stackId="1" startPc="268435531"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="276" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="307" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="338" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="369" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="400" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/GarminDBalApp" offset="439" parentId="globals" symbolId="GarminDBalApp" type="class"/>
+        <dataEntry label="globals/GarminDBalView" offset="510" parentId="globals" symbolId="GarminDBalView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435491" name="initialize" parent="GarminDBalView" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435502" name="compute" parent="GarminDBalView" startPc="268435492">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435675" name="&lt;init&gt;" parent="GarminDBalView" startPc="268435657">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435525" name="initialize" parent="GarminDBalApp" startPc="268435503">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435530" name="onStart" parent="GarminDBalApp" startPc="268435526">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435535" name="onStop" parent="GarminDBalApp" startPc="268435531">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435577" name="getInitialView" parent="GarminDBalApp" startPc="268435536">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435656" name="&lt;init&gt;" parent="GarminDBalApp" startPc="268435638">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435606" name="getApp" startPc="268435578">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435632" name="&lt;init&gt;" parent="Drawables" startPc="268435632">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435634" name="&lt;init&gt;" parent="Fonts" startPc="268435634">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435636" name="&lt;init&gt;" parent="JsonData" startPc="268435636">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435635" name="&lt;init&gt;" parent="Layouts" startPc="268435635">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435633" name="&lt;init&gt;" parent="Menus" startPc="268435633">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435637" name="&lt;init&gt;" parent="Strings" startPc="268435637">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435631" name="&lt;init&gt;" parent="Rez" startPc="268435608">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
